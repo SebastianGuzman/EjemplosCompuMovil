@@ -1,0 +1,2 @@
+include ':lifecycle', ':inputcontrol', ':communication'
+rootProject.name='Fragments'
